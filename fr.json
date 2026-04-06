@@ -39,7 +39,9 @@
     "save": "Enregistrer",
     "delete": "Supprimer",
     "edit": "Modifier",
-    "close": "Fermer"
+    "close": "Fermer",
+    "active": "Actif",
+    "inactive": "Inactif"
   },
   "chat": {
     "inputPlaceholder": "Tapez un message...",
@@ -177,6 +179,12 @@
     "buttonCreate": "Créer un nouvel événement de jeu",
     "buttonReload": "Recharger",
     "emptyState": "Aucun paquet de jeu trouvé. Créez votre premier paquet pour commencer !",
+    "badgeActive": "Actif",
+    "badgeArchived": "Archivé",
+    "labelAuthor": "Auteur :",
+    "labelGames": "Jeux",
+    "labelCreated": "Créé :",
+    "buttonGameDetails": "Détails du jeu",
     "eventDetails": {
       "tabStory": "Histoire de l'événement",
       "tabGames": "Jeux",
@@ -236,5 +244,20 @@
         "deleteModalCancel": "Annuler"
       }
     }
+  },
+  "aiTraining": {
+    "gamesTitle": "Gestion du contenu de jeu",
+    "buttonCreateGame": "Créer un nouveau jeu",
+    "eventStoryTitle": "Histoire et métadonnées de l'événement",
+    "hintsTitle": "Gestion des indices de formation IA",
+    "buttonAddHint": "Ajouter un indice",
+    "labelSelectGame": "Sélectionner un jeu :",
+    "labelHints": "indices",
+    "buttonCleanup": "Nettoyer le jeu",
+    "categoriesTitle": "Gestion des catégories de jeux",
+    "promptsTitle": "Gestion des instructions système IA",
+    "noHints": "Aucun indice de formation pour ce jeu pour le moment.",
+    "clickAddHint": "Cliquez sur \"Ajouter un indice\" pour en créer un.",
+    "labelLevel": "Niveau"
   }
 }

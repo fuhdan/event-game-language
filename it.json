@@ -39,7 +39,9 @@
     "save": "Salva",
     "delete": "Elimina",
     "edit": "Modifica",
-    "close": "Chiudi"
+    "close": "Chiudi",
+    "active": "Attivo",
+    "inactive": "Inattivo"
   },
   "chat": {
     "inputPlaceholder": "Digita un messaggio...",
@@ -177,6 +179,12 @@
     "buttonCreate": "Crea nuovo evento di gioco",
     "buttonReload": "Ricarica",
     "emptyState": "Nessun pacchetto di gioco trovato. Crea il tuo primo pacchetto per iniziare!",
+    "badgeActive": "Attivo",
+    "badgeArchived": "Archiviato",
+    "labelAuthor": "Autore:",
+    "labelGames": "Giochi",
+    "labelCreated": "Creato:",
+    "buttonGameDetails": "Dettagli del gioco",
     "eventDetails": {
       "tabStory": "Storia dell'evento",
       "tabGames": "Giochi",
@@ -236,5 +244,20 @@
         "deleteModalCancel": "Annulla"
       }
     }
+  },
+  "aiTraining": {
+    "gamesTitle": "Gestione dei contenuti di gioco",
+    "buttonCreateGame": "Crea nuovo gioco",
+    "eventStoryTitle": "Storia dell'evento e metadati",
+    "hintsTitle": "Gestione dei suggerimenti di formazione IA",
+    "buttonAddHint": "Aggiungi suggerimento",
+    "labelSelectGame": "Seleziona gioco:",
+    "labelHints": "suggerimenti",
+    "buttonCleanup": "Pulisci gioco",
+    "categoriesTitle": "Gestione delle categorie di giochi",
+    "promptsTitle": "Gestione delle istruzioni di sistema IA",
+    "noHints": "Nessun suggerimento di formazione per questo gioco ancora.",
+    "clickAddHint": "Fai clic su \"Aggiungi suggerimento\" per crearne uno.",
+    "labelLevel": "Livello"
   }
 }

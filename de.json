@@ -39,7 +39,9 @@
     "save": "Speichern",
     "delete": "Löschen",
     "edit": "Bearbeiten",
-    "close": "Schließen"
+    "close": "Schließen",
+    "active": "Aktiv",
+    "inactive": "Inaktiv"
   },
   "chat": {
     "inputPlaceholder": "Nachricht eingeben...",
@@ -177,6 +179,12 @@
     "buttonCreate": "Neues Spielereignis erstellen",
     "buttonReload": "Neu laden",
     "emptyState": "Keine Spielpakete gefunden. Erstellen Sie Ihr erstes Paket, um zu beginnen!",
+    "badgeActive": "Aktiv",
+    "badgeArchived": "Archiviert",
+    "labelAuthor": "Autor:",
+    "labelGames": "Spiele",
+    "labelCreated": "Erstellt:",
+    "buttonGameDetails": "Spieldetails",
     "eventDetails": {
       "tabStory": "Ereignisgeschichte",
       "tabGames": "Spiele",
@@ -236,5 +244,20 @@
         "deleteModalCancel": "Abbrechen"
       }
     }
+  },
+  "aiTraining": {
+    "gamesTitle": "Spielinhaltsverwaltung",
+    "buttonCreateGame": "Neues Spiel erstellen",
+    "eventStoryTitle": "Ereignisgeschichte & Metadaten",
+    "hintsTitle": "KI-Trainingshinweise-Verwaltung",
+    "buttonAddHint": "Hinweis hinzufügen",
+    "labelSelectGame": "Spiel auswählen:",
+    "labelHints": "Hinweise",
+    "buttonCleanup": "Spiel bereinigen",
+    "categoriesTitle": "Spielkategorien-Verwaltung",
+    "promptsTitle": "KI-Systemaufforderungen-Verwaltung",
+    "noHints": "Noch keine Trainingshinweise für dieses Spiel.",
+    "clickAddHint": "Klicken Sie auf \"Hinweis hinzufügen\", um einen zu erstellen.",
+    "labelLevel": "Stufe"
   }
 }

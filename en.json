@@ -39,7 +39,9 @@
     "save": "Save",
     "delete": "Delete",
     "edit": "Edit",
-    "close": "Close"
+    "close": "Close",
+    "active": "Active",
+    "inactive": "Inactive"
   },
   "chat": {
     "inputPlaceholder": "Type message...",
@@ -177,6 +179,12 @@
     "buttonCreate": "Create New Game Event",
     "buttonReload": "Reload",
     "emptyState": "No game packages found. Create your first package to get started!",
+    "badgeActive": "Active",
+    "badgeArchived": "Archived",
+    "labelAuthor": "Author:",
+    "labelGames": "Games",
+    "labelCreated": "Created:",
+    "buttonGameDetails": "Game Details",
     "eventDetails": {
       "tabStory": "Event Story",
       "tabGames": "Games",
@@ -236,5 +244,20 @@
         "deleteModalCancel": "Cancel"
       }
     }
+  },
+  "aiTraining": {
+    "gamesTitle": "Game Content Management",
+    "buttonCreateGame": "Create New Game",
+    "eventStoryTitle": "Event Story & Metadata",
+    "hintsTitle": "AI Training Hints Management",
+    "buttonAddHint": "Add Hint",
+    "labelSelectGame": "Select Game:",
+    "labelHints": "hints",
+    "buttonCleanup": "Cleanup Game",
+    "categoriesTitle": "Game Categories Management",
+    "promptsTitle": "AI System Prompts Management",
+    "noHints": "No training hints for this game yet.",
+    "clickAddHint": "Click \"Add Hint\" to create one.",
+    "labelLevel": "Level"
   }
 }
